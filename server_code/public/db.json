@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "distance": "20",
+    "price": "40",
+    "pickup": "new haven",
+    "drop": "west haven"
+  },
+  {
+    "id": 2,
+    "distance": "12",
+    "price": "123",
+    "pickup": "Bridge Port",
+    "drop": "west haven"
+  },
+  {
+    "id": 2,
+    "distance": "200",
+    "price": "400",
+    "pickup": "new Hampshire",
+    "drop": "new york"
+  },
+  {
+    "id": 3,
+    "distance": "300",
+    "price": "250",
+    "pickup": "new jersey",
+    "drop": "west haven"
+  },
+  {
+    "id": 4,
+    "distance": "1000",
+    "price": "401",
+    "pickup": "California",
+    "drop": "los angeles"
+  },
+  {
+    "id": 1,
+    "distance": "340",
+    "price": "402323",
+    "pickup": "Pitsburg",
+    "drop": "pensylvania"
+  }
+]

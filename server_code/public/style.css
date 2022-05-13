@@ -1,0 +1,107 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo:wght@700&family=Caveat:wght@400;700&family=Courgette&family=Dancing+Script:wght@400;700&family=Great+Vibes&family=Kalam:wght@700&family=Old+Standard+TT:wght@700&family=Roboto&family=Satisfy&display=swap');
+
+h1 {
+    font-family: 'Dancing Script';
+}
+
+p {
+    padding: 10px;
+}
+body{
+    background-color: beige;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+figcaption{
+    text-align:center;
+
+    padding-top: 10px;
+}
+
+
+#About {
+    background-color: aliceblue;
+}
+
+#education {
+    background-color: floralwhite;
+}
+
+#Experience {
+    background-color: azure;
+}
+
+#Blogs {
+    background-color: lavender;
+}
+
+#project {
+    background-color:lightgrey;
+}
+
+#footer{
+    background-color: linen;
+}
+#links{
+    text-align: center;
+}
+
+.nav ul {
+    list-style-type: none;
+    background-color: black;
+    margin-top: 30px;
+    overflow: hidden;
+    color: white;
+}
+
+.nav li {
+    float: right;
+}
+
+.nav li a {
+    text-decoration: none;
+    padding: 10px 25px;
+    display: block;
+    color: white;
+}
+#name{
+    float: left;
+}
+.nav li a:hover {
+    background-color: teal;
+    color: black;
+}
+.fa {
+    padding: 5px;
+    font-size: 20px;
+    width: 20px;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa-linkedin
+{
+    background-color:#007bb5;
+    color: white;
+}
+.fa-facebook
+{
+    background-color:blue;
+    color: white;
+}
+
+.fa-instagram
+{
+    background-color:#cb2027;
+    color: white;
+}
+.fa-twitter
+{
+    background-color:lightblue;
+    color: white;
+}
